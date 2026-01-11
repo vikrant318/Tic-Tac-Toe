@@ -1,2 +1,17 @@
-# Tic-Tac-Toe
-This is a Tic Tac Toe web game developed using HTML, CSS, and JavaScript. The game allows two players to play alternately using X and O. Each move is validated, and the game automatically detects the winner based on predefined winning patterns.
+# Tic Tac Toe Game 🎮
+
+A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
+
+## Features
+- Two player mode (X & O)
+- Winner detection
+- Reset and New Game functionality
+- Clean UI with different player colors
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Vikrant
